@@ -12,10 +12,10 @@ what's going on.
 
 In short:
 
-`/workspace/pages/home/config/resources.widgets.xml` holds the relation from `Home` page to `Master` widget
-`/workspace/widgets/master/config/resources.widgets.xml` holds the relation from `Master` widget to `Newsletter` widget
-`/workspace/widgets/master/config/resources.datasources.xml` holds the relations from `Master` widget to common datasources required for all pages
-`/workspace/widgets/newsletter/config/resources.events.xml` holds the relation from `Newsletter` widget to `Mail Chimp` event
+- `/workspace/pages/home/config/resources.widgets.xml` holds the relation from `Home` page to `Master` widget
+- `/workspace/widgets/master/config/resources.datasources.xml` holds the relations from `Master` widget to common datasources required for all pages
+- `/workspace/widgets/master/config/resources.widgets.xml` holds the relation from `Master` widget to `Newsletter` widget
+- `/workspace/widgets/newsletter/config/resources.events.xml` holds the relation from `Newsletter` widget to `Mail Chimp` event
 
 The rest is XSLT.
 
