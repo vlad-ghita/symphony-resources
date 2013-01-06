@@ -5,8 +5,10 @@
 
 
 
+	<!-- Import all utilities -->
 	<xsl:import href="../../../utilities/__import.xsl"/>
 
+	<!-- Import all widgets common to all pages -->
 	<xsl:import href="../../newsletter/xsl/newsletter.xsl"/>
 
 
