@@ -1,0 +1,12 @@
+.newsletter form {
+	margin-top: 0;
+}
+
+.newsletter form input {
+	display: inline;
+	width: 470px;
+}
+
+.newsletter form button {
+	float: right;
+}

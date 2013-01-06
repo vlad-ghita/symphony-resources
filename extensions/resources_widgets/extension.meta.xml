@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<extension id="resources_widgets" status="released" xmlns="http://symphony-cms.com/schemas/extension/1.0">
+
+	<name>Resources : Widgets</name>
+
+	<description>Create Widgets on steroids.</description>
+
+	<repo type="github">https://github.com/vlad-ghita/resources_widgets</repo>
+
+	<types>
+		<type>Interface</type>
+		<type>Workflow</type>
+	</types>
+
+	<authors>
+		<author>
+			<name github="vlad-ghita" symphony="vladG">Vlad Ghita</name>
+			<email>vlad_micutul@yahoo.com</email>
+			<website>http://www.xanderadvertising.com</website>
+		</author>
+	</authors>
+
+	<releases>
+		<release version="1.0" date="2012-08-29" min="2.3.x"><![CDATA[
+			* Initial release.
+		]]></release>
+	</releases>
+
+</extension>
