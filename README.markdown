@@ -21,5 +21,5 @@ The rest is XSLT.
 
 NB: I added some `hooks` in `master.xsl`. I suggest you have a look at them.
 
-[1]: http://gihub.com/vlad-ghita
-[2]: http://gihub.com/vlad-ghita
+[1]: http://github.com/vlad-ghita
+[2]: http://github.com/vlad-ghita
